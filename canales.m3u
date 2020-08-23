@@ -78,8 +78,6 @@ http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/238
 http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/239
 #EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="PELICULAS Y SERIES ",FX
 http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/248
-#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="PELICULAS Y SERIES ",Golden
-http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/255
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO
 http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/258
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO Family
@@ -88,6 +86,8 @@ http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/259
 http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/260
 #EXTINF:-1 tvg-id="" tvg-name="HBO2" tvg-logo="" group-title="PELICULAS Y SERIES ",HBO2
 http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/261
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="PELICULAS Y SERIES ",Golden
+http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/255
 #EXTINF:0 tvg-id="ext" group-title="Radio",GOLDEN +
 http://cinematicket.club/tp2.php?c=122&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="GoldenEdge.mx" group-title="Radio",GOLDEN EDGE
@@ -122,10 +122,6 @@ http://cinematicket.club/tp2.php?c=60&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp2.php?c=62&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="AXN.bg" group-title="Radio",AXN
 http://cinematicket.club/tp2.php?c=64&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Unicable.mx" group-title="Radio",UNICABLE SD
-http://cinematicket.club/tp2.php?c=66&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="Sundancechannel.hu" group-title="Radio",SUNDANCE TV
-http://cinematicket.club/tp2.php?c=69&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="TNTSeries.cl" group-title="Radio",TNT SERIES
 http://cinematicket.club/tp2.php?c=71&p=3&k=tecnotv&f=.m3u8
 
@@ -133,14 +129,14 @@ http://cinematicket.club/tp2.php?c=71&p=3&k=tecnotv&f=.m3u8
 
 
 
-
+#EXTINF:0 tvg-id="ext" group-title="Radio",DE PELICULA +
+http://cinematicket.club/tp2.php?c=121&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="DistritoComedia.mx" group-title="Radio",DISTRITO COMEDIA SD
 http://cinematicket.club/tp2.php?c=78&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="TruTV.uk" group-title="Radio",TRUTV
 http://cinematicket.club/tp2.php?c=79&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="TLNovelas.pe" group-title="Radio",TL NOVELAS SD
 http://cinematicket.club/tp2.php?c=83&p=3&k=tecnotv&f=.m3u8
-
 #EXTINF:0 tvg-id="TruTVHD.mx" group-title="Radio",TRUTV HD
 http://cinematicket.club/tp2.php?c=215&p=3&k=tecnotv&f=.m3u8
 
@@ -304,12 +300,20 @@ http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/706
 #EXTINF:-1 tvg-id="" tvg-name="ESPN 3 (CLARO TV)" tvg-logo="" group-title="DEPORTES ",ESPN 3 (CLARO TV)
 http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/707
 #EXTINF:-1 tvg-id="" tvg-name="ESPN2 (CLARO TV)" tvg-logo="" group-title="DEPORTES ",ESPN2 (CLARO TV)
-
 #EXTINF:-1 tvg-id="" tvg-name="LAT*Telemundo HD" tvg-logo="" group-title="ENTRETENIMIENTO",LAT*Telemundo HD
 http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/81
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AivW9rc.png" group-title="LABEL",~ 24/7 Adult Swim ~
+https://fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/slawVDH.png" group-title="24/7 ADULT SWIM",Black Jesus
+http://adultswim-vodlive.cdn.turner.com/live/black-jesus/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/aShyuut.png" group-title="24/7 ADULT SWIM",Mr. Pickles
+http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7bZnIJ0.png" group-title="24/7 ADULT SWIM",Rick and Morty
+http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8
 
 
 
