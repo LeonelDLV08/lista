@@ -1,10 +1,11 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="ext" group-title="Radio",AZ CLIC HD
-http://cinematicket.club/tp2.php?c=11&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, AZTECA UNO HD
+http://roedor.xyz/SrRegio-Ag/tp.php?c=7&p=3&k=srregio&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Radio",LAS ESTRELLAS
 http://cinematicket.club/tp2.php?c=17&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Radio",AZ CLIC HD
+http://cinematicket.club/tp2.php?c=11&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="Canal5.mx" group-title="Radio",CANAL 5
 http://cinematicket.club/tp2.php?c=20&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="Azteca7.mx" group-title="Radio",AZTECA 7
@@ -17,8 +18,16 @@ http://cinematicket.club/tp2.php?c=25&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp2.php?c=27&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="TeleFormula.mx" group-title="Radio",TELEFORMULA SD
 http://cinematicket.club/tp2.php?c=32&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TeleFormula.mx" group-title="Radio",TELEFORMULA SD
-http://cinematicket.club/tp2.php?c=32&p=3&k=tecnotv&f=.m3u8
+#EXTINF:-1, AZ CORAZON 
+http://roedor.xyz/SrRegio-Ag/tp.php?c=70&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, AZ MUNDO
+http://roedor.xyz/SrRegio-Ag/tp.php?c=84&p=3&k=srregio&f=.m3u8
+#EXTINF:-1, IMAGEN TV  
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2298&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, MULTIMEDIOS MTY
+http://roedor.xyz/SrRegio-Ag/tp.php?c=2305&p=3&k=srregio&f=.m3u8  
+#EXTINF:-1, APREDNE TV
+http://roedor.xyz/SrRegio-Ag/tp.php?c=401&p=3&k=srregio&f=.m3u8
 
 
 #EXTINF:0 tvg-id="Tooncast.mx" group-title="Radio",TOONCAST
@@ -94,6 +103,8 @@ http://cinematicket.club/tp2.php?c=122&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp2.php?c=124&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="tnt" group-title="Radio",TNT
 http://cinematicket.club/tp2.php?c=126&p=3&k=tecnotv&f=.m3u8
+#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Radio",TNT SERIES
+http://cinematicket.club/tp2.php?c=71&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="Space.br" group-title="Radio",SPACE
 http://cinematicket.club/tp2.php?c=129&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="StudioUniversal.it" group-title="Radio",STUDIO UNIVERSAL
@@ -122,8 +133,7 @@ http://cinematicket.club/tp2.php?c=60&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp2.php?c=62&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="AXN.bg" group-title="Radio",AXN
 http://cinematicket.club/tp2.php?c=64&p=3&k=tecnotv&f=.m3u8
-#EXTINF:0 tvg-id="TNTSeries.cl" group-title="Radio",TNT SERIES
-http://cinematicket.club/tp2.php?c=71&p=3&k=tecnotv&f=.m3u8
+
 
 
 
@@ -187,7 +197,8 @@ http://cinematicket.club/tp2.php?c=2145&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp2.php?c=2379&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Radio",CURIOSITY STREAM
 http://cinematicket.club/tp2.php?c=2594&p=3&k=tecnotv&f=.m3u8
-
+#EXTINF:-1 ,#EXTINF:-1 - Historia agencyrl.com
+http://184.173.181.2:1935/8062/8062/playlist.m3u8
 
 
 
@@ -212,6 +223,8 @@ http://cinematicket.club/tp2.php?c=218&p=3&k=tecnotv&f=.m3u8
 http://cinematicket.club/tp2.php?c=220&p=3&k=tecnotv&f=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CONCERT CHANNEL" tvg-logo="" group-title="ENTRETENIMIENTO",CONCERT CHANNEL
 http://zufreelist.net:8880/listade22agostop/WzKrx2B2EN/209
+#EXTINF:-1 ,#EXTINF:-1 - KARAOKE HD agencyrl.com
+http://www.djing.com/tv/karaoke.m3u8
 #EXTINF:0 tvg-id="Bandamax.mx" group-title="Radio",BANDAMAX SD
 http://cinematicket.club/tp2.php?c=221&p=3&k=tecnotv&f=.m3u8
 #EXTINF:0 tvg-id="AzClic.mx" group-title="Radio",AZ CLIC
